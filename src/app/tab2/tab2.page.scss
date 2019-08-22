@@ -1,0 +1,30 @@
+
+ion-button
+{
+    height : 95%;
+    width: 95%
+
+}
+
+
+.box-container {
+    display: table;
+    height: 100%;
+    width: 90%;
+    border: 0px;
+    }
+    
+.box-row {
+    display: table-row;
+    }
+    
+.box-col {
+    display: table-cell;
+    padding: 0px !important;
+    text-align: center;
+    vertical-align: middle;
+    }
+    .back
+    {
+        background: rgb(78, 105, 187);
+    }

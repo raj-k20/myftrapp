@@ -1,0 +1,7 @@
+{
+  "name": "ftrapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

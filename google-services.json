@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909303475115",
+    "firebase_url": "https://ftrapp-5d572.firebaseio.com",
+    "project_id": "ftrapp-5d572",
+    "storage_bucket": "ftrapp-5d572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909303475115:android:3d2cf19492958b97",
+        "android_client_info": {
+          "package_name": "com.socgen.ftrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909303475115-l87mb57sr1s6d5e1rp9fmvvrhtsn6bhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47veGmP2oiRQU3dLeosKmdx_r5xikBi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909303475115-l87mb57sr1s6d5e1rp9fmvvrhtsn6bhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
